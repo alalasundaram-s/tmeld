@@ -1,0 +1,30 @@
+{
+    "data": {
+        "driver1": {
+            "current_state": "DRIVING",
+            "source": "can",
+            "driver_id": 195902,
+            "driver_name": "Abdunazar Fozilov",
+            "driving_now": 4550,
+            "until_rest": 11650,
+            "today": {
+                "current": 9430,
+                "remaining": 26570
+            },
+            "week": {
+                "current": 56554,
+                "remaining": 145046,
+                "10h_driving_extensions": 0,
+                "10h_driving_extensions_max": 2,
+                "9h_rest_shortening": 2,
+                "9h_rest_shortening_max": 3,
+                "previous": 90917,
+                "next": 201600
+            },
+            "next_daily_rest": 37980,
+            "next_daily_rest_remaining": 54000,
+            "next_weekly_rest": 1526022578,
+            "next_weekly_rest_remaining": 166116
+        }
+    }
+}
